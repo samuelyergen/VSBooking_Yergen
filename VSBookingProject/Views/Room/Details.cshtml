@@ -1,0 +1,47 @@
+﻿@model VSBookingProject.Models.RoomViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+<form asp-area="" asp-controller="Hotel" asp-action="Details" method="post">
+    <input type="submit" value="Back to room list" />
+</form>
+<pre>
+
+</pre>
+<h1>Room details</h1>
+
+
+<pre>
+
+</pre>
+<table>
+    @foreach (var p in Model.Pictures)
+    {
+        <tr>
+            <td>
+                <img src=@p.Url alt="image room" width="300" height="200"/>
+            </td>
+        </tr>
+    }
+</table>
+<pre>
+
+</pre>
+<ul>
+    <li>Number of beds : @Model.Room.Type</li>
+    <li>Description : @Model.Room.Description</li>
+    <li>TV   @Html.DisplayFor(modelItem => Model.Room.HasTv)</li>
+    <li>Hair dryer   @Html.DisplayFor(modelItem => Model.Room.HasHairDryer)</li>
+</ul>
+
+<pre>
+
+</pre>
+<div>
+    <form asp-area="" asp-controller="Room" asp-action="Details" method="post">
+        <input type="submit" value="Add to shopping cart" />
+    </form>
+
+
+</div>

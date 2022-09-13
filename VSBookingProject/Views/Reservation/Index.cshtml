@@ -1,0 +1,51 @@
+﻿@model IEnumerable<DTO.Reservation>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>My reservations</h1>
+
+<pre>
+
+</pre>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdReservation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Firstname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lastname)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IdReservation)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Firstname)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Lastname)
+                    </td>
+                    <td>                      
+                        @Html.ActionLink("Details", "Index", "Booking", new { id = item.IdReservation }) |
+                        @Html.ActionLink("Cancel reservation", "Delete", new { id = item.IdReservation })
+                    </td>
+                </tr>
+            }
+        }
+
+    </tbody>
+</table>

@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "Confirmation";
+}
+
+<h1>Confirmation</h1>
+<pre>
+
+</pre>
+<h2>Thanks you !</h2>
+<h2>You booked rooms</h2>
+<pre>
+
+
+</pre>
+<h3>You can go to our list of hotel</h3>
+<form asp-action="Index" asp-controller="Hotel" method="get">
+    <input type="submit" value="Back to the hotel list" />
+</form>
+<pre>
+
+
+
+</pre>
+<h3>Or in your reservations</h3>
+<form asp-action="Index" asp-controller="Reservation">
+    <input type="submit" value="Go to my reservations" />
+</form>
+
+

@@ -1,0 +1,855 @@
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.exe
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.deps.json
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.runtimeconfig.json
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.runtimeconfig.dev.json
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.pdb
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.Views.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.Views.pdb
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.csprojAssemblyReference.cache
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.AssemblyInfoInputs.cache
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.AssemblyInfo.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorAssemblyInfo.cache
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorAssemblyInfo.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.TagHelpers.input.cache
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.TagHelpers.output.cache
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorCoreGenerate.cache
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorTargetAssemblyInfo.cache
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorTargetAssemblyInfo.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.Views.pdb
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\staticwebassets\VSBookingProject.StaticWebAssets.Manifest.cache
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\staticwebassets\VSBookingProject.StaticWebAssets.xml
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.dll
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.pdb
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.genruntimeconfig.cache
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.csproj.CopyComplete
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.csproj.CoreCompileInputs.cache
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Index.cshtml.g.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Edit.cshtml.g.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Details.cshtml.g.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\RoomDetails.cshtml.g.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Room\Details.cshtml.g.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Create.cshtml.g.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Index.cshtml.g.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Confirmation.cshtml.g.cs
+C:\Projets\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Delete.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.exe
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.deps.json
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.runtimeconfig.json
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.runtimeconfig.dev.json
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.pdb
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.Views.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.Views.pdb
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\BLL.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DAL.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DTO.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\VSBooking\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.csprojAssemblyReference.cache
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.AssemblyInfoInputs.cache
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.AssemblyInfo.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.csproj.CoreCompileInputs.cache
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.MvcApplicationPartsAssemblyInfo.cache
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorAssemblyInfo.cache
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorAssemblyInfo.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.TagHelpers.input.cache
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.TagHelpers.output.cache
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorCoreGenerate.cache
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Details.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Edit.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Index.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\RoomDetails.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Confirmation.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Create.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Delete.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Room\Details.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorTargetAssemblyInfo.cache
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorTargetAssemblyInfo.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.Views.pdb
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.csproj.CopyComplete
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\staticwebassets\VSBookingProject.StaticWebAssets.Manifest.cache
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\staticwebassets\VSBookingProject.StaticWebAssets.xml
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.dll
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.pdb
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.genruntimeconfig.cache
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Room\Index.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Details.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Index.cshtml.g.cs
+C:\VSBooking\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Index.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.exe
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.deps.json
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.runtimeconfig.json
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.runtimeconfig.dev.json
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.pdb
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.Views.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.Views.pdb
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.csprojAssemblyReference.cache
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.AssemblyInfoInputs.cache
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.AssemblyInfo.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.csproj.CoreCompileInputs.cache
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorAssemblyInfo.cache
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorAssemblyInfo.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.TagHelpers.input.cache
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.TagHelpers.output.cache
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorCoreGenerate.cache
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Index.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Details.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Edit.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Index.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\RoomDetails.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Confirmation.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Create.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Delete.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Details.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Index.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Room\Details.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Room\Index.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorTargetAssemblyInfo.cache
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorTargetAssemblyInfo.cs
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.Views.pdb
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.csproj.CopyComplete
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\staticwebassets\VSBookingProject.StaticWebAssets.Manifest.cache
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\staticwebassets\VSBookingProject.StaticWebAssets.xml
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.dll
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.pdb
+C:\Users\Maintenant Prêt\Desktop\Rendu projet software\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.genruntimeconfig.cache
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.exe
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.deps.json
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.runtimeconfig.json
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.runtimeconfig.dev.json
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.pdb
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.Views.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.Views.pdb
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\BLL.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DAL.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DTO.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.csprojAssemblyReference.cache
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.AssemblyInfoInputs.cache
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.AssemblyInfo.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.csproj.CoreCompileInputs.cache
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorAssemblyInfo.cache
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorAssemblyInfo.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\staticwebassets\VSBookingProject.StaticWebAssets.Manifest.cache
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\staticwebassets\VSBookingProject.StaticWebAssets.xml
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\VSBookingProject.styles.css
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.TagHelpers.input.cache
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.TagHelpers.output.cache
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorCoreGenerate.cache
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Index.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Details.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Edit.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Index.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\RoomDetails.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Confirmation.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Create.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Delete.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Details.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Index.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Room\Details.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Room\Index.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorTargetAssemblyInfo.cache
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorTargetAssemblyInfo.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.Views.pdb
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.csproj.CopyComplete
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.pdb
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.genruntimeconfig.cache
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.exe
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.deps.json
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.runtimeconfig.json
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.runtimeconfig.dev.json
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.pdb
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.Views.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.Views.pdb
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.csprojAssemblyReference.cache
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.AssemblyInfoInputs.cache
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.AssemblyInfo.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.csproj.CoreCompileInputs.cache
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorAssemblyInfo.cache
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorAssemblyInfo.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.TagHelpers.input.cache
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.TagHelpers.output.cache
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorCoreGenerate.cache
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Index.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Details.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Edit.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Index.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\RoomDetails.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Confirmation.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Create.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Delete.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Details.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Index.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Room\Details.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Room\Index.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorTargetAssemblyInfo.cache
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorTargetAssemblyInfo.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.Views.pdb
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.csproj.CopyComplete
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\staticwebassets\VSBookingProject.StaticWebAssets.Manifest.cache
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\staticwebassets\VSBookingProject.StaticWebAssets.xml
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.pdb
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.genruntimeconfig.cache
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.exe
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.deps.json
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.runtimeconfig.json
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.runtimeconfig.dev.json
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.pdb
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.Views.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\VSBookingProject.Views.pdb
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.csprojAssemblyReference.cache
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.AssemblyInfoInputs.cache
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.AssemblyInfo.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.csproj.CoreCompileInputs.cache
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorAssemblyInfo.cache
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorAssemblyInfo.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.TagHelpers.input.cache
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.TagHelpers.output.cache
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorCoreGenerate.cache
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Index.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Details.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Edit.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\Index.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Hotel\RoomDetails.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Confirmation.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Create.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Delete.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Details.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Reservation\Index.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Room\Details.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Room\Index.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorTargetAssemblyInfo.cache
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.RazorTargetAssemblyInfo.cs
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.Views.pdb
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.csproj.CopyComplete
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\staticwebassets\VSBookingProject.StaticWebAssets.Manifest.cache
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\staticwebassets\VSBookingProject.StaticWebAssets.xml
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.dll
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.pdb
+C:\Users\Maintenant Prêt\Desktop\rrreendu\VSBookingProject\VSBookingProject\obj\Debug\netcoreapp3.1\VSBookingProject.genruntimeconfig.cache

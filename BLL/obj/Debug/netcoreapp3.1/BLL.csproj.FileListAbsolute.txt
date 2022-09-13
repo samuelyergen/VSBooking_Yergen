@@ -1,0 +1,84 @@
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Projets\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Projets\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Projets\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Projets\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Projets\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Projets\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Projets\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Projets\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Projets\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Projets\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Projets\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Projets\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Projets\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Projets\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\VSBooking\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\VSBooking\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\VSBooking\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\VSBooking\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\VSBooking\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\VSBooking\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\VSBooking\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\VSBooking\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\VSBooking\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\VSBooking\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\VSBooking\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\VSBooking\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\VSBooking\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\VSBooking\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

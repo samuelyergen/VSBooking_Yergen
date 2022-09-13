@@ -1,0 +1,50 @@
+﻿@model IEnumerable<DTO.Booking>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Reservations details</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdRoom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdReservation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateStart)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateEnd)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdRoom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdReservation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateStart)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateEnd)
+            </td>
+           
+        </tr>
+}
+    </tbody>
+</table>
+<form asp-action="Index" asp-controller="Reservation">
+    <input type="submit" value="Back to reservation" />
+</form>

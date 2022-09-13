@@ -1,0 +1,99 @@
+﻿@model IEnumerable<DTO.Hotel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<h1>Hotels available</h1>
+<pre>
+
+</pre>
+<form asp-controller="Hotel" asp-action="Index" method="get">
+    <table>
+        <tr>
+            <th>Location</th>
+            <th>Stars</th>
+            <th>Parking</th>
+            <th>Wifi</th>
+        </tr>
+        <tr>
+            <th>
+                <select name="location" id="location">
+                    <option value="">--Please choose an option--</option>
+                    <option value="Martigny">Martigny</option>
+                    <option value="Sion">Sion</option>
+                    <option value="Sierre">Sierre</option>
+                    <option value="Saint-Maurice">Saint-Maurice</option>
+                </select>
+            </th>
+            <th>
+                <select name="category" id="category">
+                    <option value="">--Please choose an option--</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                </select>
+            </th>
+            <th>
+                <select name="hasParking" id="hasParking">
+                    <option value="">--Please choose an option--</option>
+                    <option value="True">Yes</option>
+                    <option value="False">No</option>
+                </select>
+            </th>
+            <th>
+                <select name="hasWifi" id="hasWifi">
+                    <option value="">--Please choose an option--</option>
+                    <option value="True">Yes</option>
+                    <option value="False">No</option>
+                </select>
+            </th>
+            <th><input type="submit" value="Filter" /></th>
+        </tr>
+    </table>
+</form>
+<pre>
+
+</pre>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Location)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Location)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Category)
+                    </td>
+                    <td>
+                        @Html.ActionLink("See hotel", "Details", new { id = item.IdHotel })
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

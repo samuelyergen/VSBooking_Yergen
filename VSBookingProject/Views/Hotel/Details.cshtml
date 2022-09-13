@@ -1,0 +1,117 @@
+﻿@model VSBookingProject.Models.HotelViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>@Model.Hotel.Name</h1>
+<pre>
+
+</pre>
+<ul>
+    <li>Number of stars : @Model.Hotel.Category</li>
+    <li>Location : @Model.Hotel.Location</li>
+    <li>Description : @Model.Hotel.Description</li>
+    <li>Parking : @Html.DisplayFor(modelItem => Model.Hotel.HasParking)</li>
+    <li>Wifi : @Html.DisplayFor(modelItem => Model.Hotel.HasWifi)</li>
+    <li>Phone : @Model.Hotel.Phone</li>   
+    <li>Website : @Model.Hotel.Website</li>
+</ul>
+<pre>
+
+</pre>
+<form asp-controller="Hotel" asp-action="Details" method="get">
+    <table>
+        <tr>
+            <th>Date Start</th>
+            <th>Date End</th>
+            <th>Price</th>
+            <th>Beds</th>
+            <th>Hair dryer</th>
+            <th>TV</th>
+        </tr>
+        <tr>
+            <th>
+                <input type="text" name="searchDateStart">
+            </th>
+            <th>
+                <input type="text" name="searchDateEnd">
+            </th>
+            <th>
+                <input type="text" name="price">
+            </th>
+            <th>
+                <select name="type" id="Type">
+                    <option value="">--Please choose an option--</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                </select>
+            </th>
+            <th>
+                <select name="hasHairDryer" id="HasHairDryer">
+                    <option value="">--Please choose an option--</option>
+                    <option value="True">Yes</option>
+                    <option value="False">No</option>
+                </select>
+            </th>
+            <th>
+                <select name="HasTv" id="HasTv">
+                    <option value="">--Please choose an option--</option>
+                    <option value="True">Yes</option>
+                    <option value="False">No</option>
+                </select>
+            </th>
+            <th><input type="submit" value="Filter" /></th>
+        </tr>
+    </table>
+</form>
+<pre>
+
+</pre>
+<div>
+    <h4>Rooms available</h4>
+    <hr />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Number of beds</th>
+                <th>Description</th>
+                <th>TV</th>
+                <th>Haire dryer</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Rooms != null)
+            {
+                @foreach (var r in Model.Rooms)
+                {
+                    <tr>
+                        <td>
+                            @r.Type
+                        </td>
+                        <td>
+                            @r.Description
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => r.HasTv)                           
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => r.HasHairDryer)                         
+                        </td>
+                        <td>
+                            @r.Price
+                        </td>
+                        <td>
+                            @Html.ActionLink("See room", "Details", "Room", new { id = r.IdRoom })
+                        </td>                       
+                    </tr>
+                }
+            }
+        </tbody>       
+    </table>  
+    <form asp-action="Index" asp-controller="Hotel" method="post">
+        <input type="submit" value="Back to hotel list" />
+    </form>
+</div>
+

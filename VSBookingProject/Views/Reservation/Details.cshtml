@@ -1,0 +1,84 @@
+﻿@model IEnumerable<DTO.Room>
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Shopping cart</h1>
+
+<pre>
+
+</pre>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdRoom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Number)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HasTv)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HasHairDryer)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IdRoom)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Number)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Type)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.HasTv)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.HasHairDryer)
+                    </td>
+                    
+                </tr>
+            }
+        }
+
+    </tbody>
+
+</table>
+<pre>
+
+</pre>
+<form asp-action="Details" asp-controller="Reservation" method="post"> 
+    <input type="submit" value="Clean shopping cart" />
+</form>
+<form asp-action="Create" asp-controller="Reservation" method="get">
+    <input type="submit" value="Reserve" />
+</form>
+
+

@@ -1,0 +1,45 @@
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Maintenant Prêt\source\repos\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Maintenant Prêt\Desktop\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Projets\VSBookingProject\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Projets\VSBookingProject\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Projets\VSBookingProject\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Projets\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Projets\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Projets\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Projets\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Projets\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Projets\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+D:\Cours\Sem_3_2020\623-1 Software Development\Projet\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Maintenant Prêt\Downloads\VSBookingProject\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
